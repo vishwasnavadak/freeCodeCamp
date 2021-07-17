@@ -15,7 +15,7 @@ import Map from '../../components/Map';
 import CertChallenge from './components/CertChallenge';
 import SuperBlockIntro from './components/SuperBlockIntro';
 import Block from './components/Block';
-import DonateModal from '../../../../client/src/components/Donation/DonationModal';
+import DonateModal from '../../components/Donation/DonationModal';
 import { Spacer } from '../../components/helpers';
 import {
   currentChallengeIdSelector,
