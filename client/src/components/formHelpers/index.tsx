@@ -9,8 +9,8 @@ import {
 
 export { default as BlockSaveButton } from './block-save-button';
 export { default as BlockSaveWrapper } from './block-save-wrapper';
-export { default as Form } from './Form.js';
-export { default as FormFields } from './FormFields.js';
+export { default as Form } from './Form';
+export { default as FormFields } from './FormFields';
 
 const normalizeOptions = {
   stripWWW: false
